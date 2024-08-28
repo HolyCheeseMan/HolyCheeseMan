@@ -4,4 +4,6 @@
 
 **Projects:**
 
+Cheese Scripting
+
 ![CheeseScripting](https://github.com/user-attachments/assets/0bf9eb0a-7d73-4c8e-baca-341dd827a008)
