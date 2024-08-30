@@ -6,7 +6,8 @@
 
 Cheese Scripting --------------- Cheese Scripting+
 
-![CheeseScripting](https://github.com/user-attachments/assets/0bf9eb0a-7d73-4c8e-baca-341dd827a008) ![CheeseScriptingPlus](https://github.com/user-attachments/assets/a6221065-9882-4688-97c0-88fe3e2b2d57)
+![CheeseScripting](https://github.com/user-attachments/assets/0bf9eb0a-7d73-4c8e-baca-341dd827a008) ![image-164x164](https://github.com/user-attachments/assets/c21ebe1a-a641-4d56-952f-b633e11c2eda)
+
 
 
 
