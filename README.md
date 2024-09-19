@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87521C&width=435&lines=Holy+Cheese+Man)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=87521C&width=435&lines=Holy+Cheese+Man)](https://git.io/typing-svg)
 
 ![cheese](https://github.com/user-attachments/assets/d0c1f9b2-9a9d-4c43-92bb-3c38a3d009cf)
 
