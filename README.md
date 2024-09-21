@@ -6,7 +6,7 @@
             <tr>
                 <th>Projects</th>
                 <th>Description</th>
-                <th>Link</th>
+                <th>Link to project</th>
             </tr>
         </thead>
         <tbody>
