@@ -4,14 +4,14 @@
     <table>
         <thead>
             <tr>
-                <th>Project Name</th>
+                <th>Projects</th>
                 <th>Description</th>
                 <th>Link</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Cheese Scripting</td>
+                <td>Cheese Scripting (OG)</td>
                 <td>Advanced application for making coding batch easy. In batch, For batch.</td>
                 <td><a href="https://github.com/HolyCheeseMan/Cheese-Scripting/blob/Main/README.md">View Project</a></td>
             </tr>
