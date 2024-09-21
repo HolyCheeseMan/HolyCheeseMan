@@ -1,7 +1,6 @@
 <div align="center">
     <h3>🧀 Holy Cheese Man 🧀</h3>
     <p>My Projects 💻</p>
-
     <table>
         <thead>
             <tr>
