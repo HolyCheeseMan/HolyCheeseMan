@@ -11,13 +11,13 @@
         </thead>
         <tbody>
             <tr>
-                <td>Project 1</td>
                 <td>Cheese Scripting</td>
+                <td>Advanced application for making coding batch easy. In batch, For batch.</td>
                 <td><a href="https://github.com/HolyCheeseMan/Cheese-Scripting/blob/Main/README.md">View Project</a></td>
             </tr>
             <tr>
-                <td>Project 2</td>
                 <td>Cheese Scripting +</td>
+                <td>An improved version of Cheese Scripting. Cheese Scripting + is an advanced application with simple ui for coding.</td>
                 <td><a href="https://github.com/HolyCheeseMan/CheeseScriptingPLUS/blob/Main/README.md">View Project</a></td>
             </tr>
         </tbody>
