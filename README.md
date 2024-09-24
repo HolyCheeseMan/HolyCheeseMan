@@ -10,7 +10,7 @@
 
 **def projects():**
 
-[<img src="https://i.imgur.com/0PXigEt.png">](https://github.com/HolyCheeseMan/CheeseScriptingPLUS?tab=readme-ov-file)
-[<img src="https://i.imgur.com/neg1ODw.png">](https://github.com/HolyCheeseMan/Cheese-Scripting/blob/Main/README.md)
+[<img src="https://i.imgur.com/0PXigEt.png">](https://github.com/HolyCheeseMan/Cheese-Scripting/blob/Main/README.md)
+[<img src="https://i.imgur.com/neg1ODw.png">](https://github.com/HolyCheeseMan/CheeseScriptingPLUS?tab=readme-ov-file)
 
 **root.quit()**
