@@ -3,7 +3,7 @@
 **def uselessinfoyoudontread():**
 
 [![Holy Cheese Mans GitHub stats](https://github-readme-stats.vercel.app/api?username=holycheeseman&theme=dark&card_width=100)](https://github.com/holycheeseman/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holycheeseman&theme=dark&layout=donut&card_width=250)](https://github.com/holycheeseman/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holycheeseman&theme=dark&layout=donut&card_width=400)](https://github.com/holycheeseman/github-readme-stats)
 
 **projects()**
 
