@@ -4,9 +4,8 @@
 
 [![Holy Cheese Mans GitHub stats](https://github-readme-stats.vercel.app/api?username=holycheeseman&theme=dark&card_width=500)](https://github.com/holycheeseman/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holycheeseman&theme=dark&layout=compact&card_width=500)](https://github.com/holycheeseman/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HolyCheeseMan&theme=dark&card_width=500)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=holycheeseman&theme=dark&layout=compact&card_width=250)](https://github.com/holycheeseman/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HolyCheeseMan&theme=dark&card_width=250)](https://git.io/streak-stats)
 
 **projects()**
 
