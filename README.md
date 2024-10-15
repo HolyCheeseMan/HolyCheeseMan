@@ -12,4 +12,3 @@
 
 [<img src="https://i.imgur.com/0PXigEt.png">](https://github.com/HolyCheeseMan/Cheese-Scripting/blob/Main/README.md)
 [<img src="https://i.imgur.com/neg1ODw.png">](https://github.com/HolyCheeseMan/CheeseScriptingPLUS?tab=readme-ov-file)
-![Untitled_design__2_-removebg-preview](https://github.com/user-attachments/assets/223f5937-013d-4c50-b457-7d42fb942461)
