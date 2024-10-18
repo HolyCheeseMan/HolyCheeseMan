@@ -21,6 +21,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html" />
-    ![interface](https://github.com/user-attachments/assets/07fa930c-8e3a-4b00-a023-4dc2f44575bf)
+    <img src="https://i.imgur.com/yjKr0fU.png" />
   </a>
 </p>
