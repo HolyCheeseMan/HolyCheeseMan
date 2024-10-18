@@ -20,9 +20,10 @@
 <h3 align="center"">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html" />
+    <img src="https://skillicons.dev/icons?i=py,html,bat" />
   </a>
 </p>
+
 <h3 align="center""></h3>
   <p align="center">
     <img src="https://i.imgur.com/MnRregb.png" />
