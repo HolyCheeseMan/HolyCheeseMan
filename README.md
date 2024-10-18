@@ -28,3 +28,10 @@
   <p align="center">
     <img src="https://i.imgur.com/MnRregb.png" />
 </p>
+
+<h3 align="center"">Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,github" />
+  </a>
+</p>
