@@ -12,3 +12,15 @@
 
 [<img src="https://i.imgur.com/0PXigEt.png">](https://github.com/HolyCheeseMan/Cheese-Scripting/blob/Main/README.md)
 [<img src="https://i.imgur.com/neg1ODw.png">](https://github.com/HolyCheeseMan/CheeseScriptingPLUS?tab=readme-ov-file)
+
+<h3 align="center">
+  🧀 Tech Stack 🧀
+</h3>
+
+<h3 align="center"">Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html" />
+    ![interface](https://github.com/user-attachments/assets/07fa930c-8e3a-4b00-a023-4dc2f44575bf)
+  </a>
+</p>
