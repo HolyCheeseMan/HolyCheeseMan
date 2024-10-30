@@ -49,4 +49,4 @@
   🧀 Trophies 🧀
 </h3>
 
-![](https://github-profile-trophy.vercel.app/?username=holycheeseman&theme=panda&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=holycheeseman&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
