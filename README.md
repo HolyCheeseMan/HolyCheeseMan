@@ -34,14 +34,14 @@
 <h3 align="center"">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,windows,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=idea,windows,unity,vscode,github" />
   </a>
 </p>
 
 <h3 align="center"">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java,cs" />
   </a>
 </p>
 
