@@ -22,7 +22,7 @@
 <h3 align="center"">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,powershell,html" />
+    <img src="https://skillicons.dev/icons?i=py,powershell,cs,html" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 <h3 align="center"">Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs" />
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
 
